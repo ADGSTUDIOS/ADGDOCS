@@ -58,7 +58,7 @@ markdown_extensions:
 extra:
       social:
             - icon: fontawesome/brands/github
-              link: "https://github.com/ADGSTUDIOS"
+              link: "https://github.com/nikkiiir"
             - icon: fontawesome/brands/linkedin
-              link: "https://www.linkedin.com/in/adgsenpai/"
+              link: "www.linkedin.com/in/nikita-ramraj"
       manifest: "static/site.webmanifest"
